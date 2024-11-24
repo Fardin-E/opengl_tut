@@ -77,5 +77,8 @@
     <ClInclude Include="src\callback.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\error_checking.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
