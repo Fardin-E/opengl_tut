@@ -80,5 +80,8 @@
     <ClInclude Include="src\error_checking.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
